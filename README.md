@@ -5,7 +5,6 @@ This project is part of a benchmark / test suite used to check the different git
 Expected Commits against integrity rules :
 * Initial Commit On the Main Branch
 * Readme Update Commit On The Main Branch
-* Final Readme Update Commit On The Main Branch
 
 ## Changes Made In This Repo
 * Make a second commit on the main branch.
@@ -14,3 +13,4 @@ Expected Commits against integrity rules :
 * Make a commit on the feature branch to update expected results file.
 * Merge the feature branch with the main branch with PR.
 * Now squash the commits that were from the part of the feature branch till the second commit on the main branch.
+* Create a new branch to update expected results after squash and merge it with main using a PR.
