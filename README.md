@@ -5,6 +5,7 @@ This project is part of a benchmark / test suite used to check the different git
 Expected Commits against integrity rules :
 * Initial Commit On the Main Branch
 * Readme Update Commit On The Main Branch
+* Squashed Commit On The Main Branch
 
 ## Changes Made In This Repo
 * Make a second commit on the main branch.
